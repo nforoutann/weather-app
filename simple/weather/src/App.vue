@@ -60,7 +60,7 @@ export default {
       const response = await fetch(`${apiUrl.value}${city}&appid=${apiKey.value}`)
       const data = await response.json()
 
-      if(response.status !== 200 || city.isEmpty){
+      if(response.status !== 200){
         error.value = true
       } else{
         temp.value = Math.round(data.main.temp-273.15)
