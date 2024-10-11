@@ -17,3 +17,8 @@ This is a simple weather forecasting application built using Vue.js. It allows u
 - Vue 3 with Composition API.
 - OpenWeatherMap API for real-time weather data.
 
+
+## 🚀 About Me
+- [@nforoutann](https://github.com/nforoutann)
+I'm a Computer Engineering (Computer Science) student at Shahid Beheshti University.
+
